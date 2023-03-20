@@ -6,9 +6,10 @@ This is a simple web application that will provide information about the weather
 This project was designed so that the user can see the current weather or a 5 day forecast of a specific city. It's a fully functional tool that anyone can use to make planning their day or week an easy task instead of getting bummed out by some rain, snow, or getting stuck in some otherwise unfortunate weather conditions.
 This website uses fully functional HTML, CSS, and JavaScript to perform. When the user inputs a city name into the text area,and clicks the search button or hits enter, they will be shown the current wether and a 5 day forecast. This application was extremely difficult for me to get through, but it was a huge help on developing my Web Development skills as a whole. Using API's
 
-Link to the webpage:
+Link to the webpage: https://nickloeffler999.github.io/weather-dashboard/
 
-The web application also uses JQuery, Day.Js, and local storage to allow the user to input and save events for the day. The user inputs data into the text area, and when they press the save button, it will be saved in local storage for the next time they go to use the application, or refresh the webpage. 
+
+![Weather Dashboard](https://user-images.githubusercontent.com/123021014/226447542-163984d8-9902-4f1f-85c0-e024e8923eb3.png)
 
 
 
