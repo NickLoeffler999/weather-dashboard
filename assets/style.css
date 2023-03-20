@@ -5,8 +5,13 @@
 }
 
 
-
-
+button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.forecast {
+    padding-top: 5px;
+}
 .header {
     margin: 0;
     font-size: 30px;
